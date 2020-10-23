@@ -8,7 +8,7 @@ tags: [ArtofData]
 
 ## Quick Summary
 
-After a lot of time looking at different topics, I chose to focus on the topic of Squash. I am an avid squash player and have gotten hurt a few times so I researched papers on the effect of injuries and which injuries are most common. I landed on [this website.](https://www.researchgate.net/publication/228485158_Sport_injuries_in_squash). 
+After a lot of time looking at different topics, I chose to focus on the topic of Squash. I am an avid squash player and have gotten hurt a few times so I researched papers on the effect of injuries and which injuries are most common. I landed on [this website.](https://www.researchgate.net/publication/228485158_Sport_injuries_in_squash) 
 
 ## Analyze and Question the Data
 
