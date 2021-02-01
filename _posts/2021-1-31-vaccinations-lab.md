@@ -26,11 +26,11 @@ For the summary statistics the main relationship was the skew. It makes a lot of
 
 While doing the lab there were four main vizualizations that I provided. Below are two of the four that I created:
 
-![Daily Vaccination Top 6](https://imgur.com/a/8mE0viC)
+![Daily Vaccination Top 6](../assets/img/daily.png)
 
 In the first picture are the top 6 countries in terms of Daily Vaccinations. 
 
-![Total Vaccination Top 6](https://imgur.com/a/oDekvAU)
+![Total Vaccination Top 6](../assets/img/total.png)
 
 In the second picture are the top 6 countries in terms of Total Vaccinations. 
 
